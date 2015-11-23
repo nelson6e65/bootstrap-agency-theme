@@ -1,0 +1,30 @@
+{
+  "name": "nelson6e65-agency",
+  "homepage": "https://github.com/nelson6e65/startbootstrap-agency",
+  "authors": [
+    "Iron Summit Media Strategies, LLC (http://ironsummitmedia.github.io)",
+    "Nelson Martell <nelson6e65-dev@yahoo.es>"
+  ],
+  "description": "A free bootstrap theme for agencies by Start Bootstrap.",
+  "keywords": [
+    "bootstrap",
+    "template",
+    "theme"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "classie": ">=1.0.1",
+    "jqBootstrapValidation": "https://github.com/ReactiveRaven/jqBootstrapValidation.git#~1.3.7",
+    "jquery.easing": "~1.3.1"
+  }
+}

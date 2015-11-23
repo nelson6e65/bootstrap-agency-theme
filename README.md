@@ -1,4 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# Agency
+
+This is a folk from [Start Bootstrap Agency](http://startbootstrap.com/template-overviews/agency/), providing installation via Bower.
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
@@ -6,7 +8,7 @@
 
 To use this theme, choose one of the following options to get started:
 * Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+* Install via Bower (`bower install startbootstrap-agency --save`)
 
 ## Bugs and Issues
 
@@ -21,6 +23,17 @@ Start Bootstrap was created by and is maintained by **David Miller**, Managing P
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
+
 ## Copyright and License
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2013-2015 Iron Summit Media Strategies, LLC
+Copyright 2015 Nelson Martell
+
+Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) (the "License");
+you may not use this file except in compliance with the License.
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
