@@ -1,6 +1,6 @@
 # Bootstrap Theme: Agency
 [![Bower version](https://img.shields.io/bower/v/nelson6e65-agency.svg)](http://bower.io/search/?q=nelson6e65-agency)
-[![GitHub commits](https://img.shields.io/github/commits-since/nelson6e65/bootstrap-agency-theme/v1.5.0.svg)](https://github.com/nelson6e65/bootstrap-agency-theme/compare/v1.5.0...master)
+[![GitHub commits](https://img.shields.io/github/commits-since/nelson6e65/bootstrap-agency-theme/v1.5.1.svg)](https://github.com/nelson6e65/bootstrap-agency-theme/compare/v1.5.1...master)
 [![Bower Licence](https://img.shields.io/bower/l/nelson6e65-agency.svg?label=licence)](NOTICE)
 
 **Agency** is a one page agency portfolio theme. This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
