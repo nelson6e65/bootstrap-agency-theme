@@ -5,6 +5,8 @@
 
 **Agency** is a one page agency portfolio theme. This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
+Go to the [preview](http://nelson6e65.github.io/bootstrap-agency-theme).
+
 ## Installing
 
 Use [Bower](http://bower.io) to install this theme (and its dependencies):
@@ -12,6 +14,8 @@ Use [Bower](http://bower.io) to install this theme (and its dependencies):
 ```bash
 bower install nelson6e65-agency --save
 ```
+
+You can check, in the install directory (default: `bower_components/nelson6e65-agency/`), the preview source in the `preview` subdirectory: [index.html](preview/index.html) as an example witch you can adapt to your needs.
 
 ## Bugs and Issues
 

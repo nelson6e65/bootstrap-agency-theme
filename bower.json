@@ -1,11 +1,15 @@
 {
   "name": "nelson6e65-agency",
-  "homepage": "https://github.com/nelson6e65/startbootstrap-agency",
+  "homepage": "http://nelson6e65.github.io/bootstrap-agency-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelson6e65/bootstrap-agency-theme"
+  },
   "authors": [
     "Iron Summit Media Strategies, LLC (http://ironsummitmedia.github.io)",
     "Nelson Martell <nelson6e65-dev@yahoo.es>"
   ],
-  "description": "A free bootstrap theme for agencies by Start Bootstrap.",
+  "description": "A free one page bootstrap theme for agencies.",
   "keywords": [
     "bootstrap",
     "template",
